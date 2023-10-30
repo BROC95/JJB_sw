@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-30T04:47:03.507Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="WUA19wsjDZMnm1IpiGr8" version="22.0.8" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-10-30T05:16:55.169Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="J7wicxpdf24qFDsZ63kh" version="22.0.8" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="MESERO">
     <mxGraphModel dx="794" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -276,17 +276,14 @@
         <mxCell id="HUmP4-jnOYjWoAJB47kP-9" value="Code " style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="HUmP4-jnOYjWoAJB47kP-8" vertex="1">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="HUmP4-jnOYjWoAJB47kP-10" value="Average Mark" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="HUmP4-jnOYjWoAJB47kP-8" vertex="1">
-          <mxGeometry y="52" width="160" height="26" as="geometry" />
-        </mxCell>
         <mxCell id="HUmP4-jnOYjWoAJB47kP-11" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="HUmP4-jnOYjWoAJB47kP-8" vertex="1">
-          <mxGeometry y="78" width="160" height="8" as="geometry" />
+          <mxGeometry y="52" width="160" height="8" as="geometry" />
         </mxCell>
         <mxCell id="HUmP4-jnOYjWoAJB47kP-12" value="Is Eligible To Enroll" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=4" parent="HUmP4-jnOYjWoAJB47kP-8" vertex="1">
-          <mxGeometry y="86" width="160" height="26" as="geometry" />
+          <mxGeometry y="60" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="HUmP4-jnOYjWoAJB47kP-13" value="Get Seminars Taken" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="HUmP4-jnOYjWoAJB47kP-8" vertex="1">
-          <mxGeometry y="112" width="160" height="26" as="geometry" />
+          <mxGeometry y="86" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="HUmP4-jnOYjWoAJB47kP-14" value="" style="endArrow=block;endSize=10;endFill=0;shadow=0;strokeWidth=1;rounded=0;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="HUmP4-jnOYjWoAJB47kP-1" source="HUmP4-jnOYjWoAJB47kP-8" target="HUmP4-jnOYjWoAJB47kP-2" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
