@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-30T04:10:50.297Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="bjMUffqK6VsbznBc7FDB" version="22.0.8" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-10-30T04:11:18.712Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="oXtCJaLjO_vyB3PnUOrc" version="22.0.8" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="MESERO">
     <mxGraphModel dx="794" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -473,13 +473,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="H0mB1ZVKSSZ8GYhU0xZ9-11" value="BD" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="HUmP4-jnOYjWoAJB47kP-1">
-          <mxGeometry x="660" y="780" width="60" height="40" as="geometry" />
+          <mxGeometry x="668" y="780" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="H0mB1ZVKSSZ8GYhU0xZ9-14" value="Registrar pago&amp;nbsp;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="HUmP4-jnOYjWoAJB47kP-1">
           <mxGeometry x="490" y="952.5" width="120" height="27.5" as="geometry" />
         </mxCell>
         <mxCell id="H0mB1ZVKSSZ8GYhU0xZ9-15" value="BD" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="HUmP4-jnOYjWoAJB47kP-1">
-          <mxGeometry x="660" y="945" width="60" height="45" as="geometry" />
+          <mxGeometry x="668" y="943.75" width="60" height="45" as="geometry" />
         </mxCell>
         <mxCell id="H0mB1ZVKSSZ8GYhU0xZ9-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="HUmP4-jnOYjWoAJB47kP-1" source="H0mB1ZVKSSZ8GYhU0xZ9-17">
           <mxGeometry relative="1" as="geometry">
