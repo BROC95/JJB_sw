@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-31T05:01:41.139Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="xq5hQIf7SecTAQGTKq0t" version="22.0.8" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-10-31T05:15:29.532Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="tnYCfS0qBoGxZyEyvAEl" version="22.0.8" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="MESERO">
     <mxGraphModel dx="794" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -573,13 +573,13 @@
         </mxCell>
         <mxCell id="yYotvHD-iDBDJAnCut38-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.993;entryY=0.275;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="HUmP4-jnOYjWoAJB47kP-1" target="yYotvHD-iDBDJAnCut38-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="690" y="745" as="sourcePoint" />
+            <mxPoint x="690" y="740" as="sourcePoint" />
             <mxPoint x="590" y="744" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yYotvHD-iDBDJAnCut38-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="HUmP4-jnOYjWoAJB47kP-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="680" y="740" as="sourcePoint" />
+            <mxPoint x="690" y="740" as="sourcePoint" />
             <mxPoint x="580" y="730" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -704,6 +704,27 @@
           <mxGeometry x="0.5" y="49" relative="1" as="geometry">
             <mxPoint x="-38" y="40" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="5_AJl4lZeVlWrMCGApg0-0" value="Administrador" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="HnRFmJmTObYHODs_ZTnM-1">
+          <mxGeometry x="110" y="780" width="90" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="5_AJl4lZeVlWrMCGApg0-1" value="Solicitar pedido" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="HnRFmJmTObYHODs_ZTnM-1">
+          <mxGeometry x="280" y="650" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5_AJl4lZeVlWrMCGApg0-2" value="Control inventarios" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="HnRFmJmTObYHODs_ZTnM-1">
+          <mxGeometry x="280" y="710" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5_AJl4lZeVlWrMCGApg0-3" value="Manejo proveedores" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="HnRFmJmTObYHODs_ZTnM-1">
+          <mxGeometry x="280" y="760" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5_AJl4lZeVlWrMCGApg0-4" value="Crear Usuarios&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="HnRFmJmTObYHODs_ZTnM-1">
+          <mxGeometry x="279" y="812" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5_AJl4lZeVlWrMCGApg0-5" value="Eliminar Usuarios&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="HnRFmJmTObYHODs_ZTnM-1">
+          <mxGeometry x="279" y="860" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5_AJl4lZeVlWrMCGApg0-6" value="Crear Usuarios&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="HnRFmJmTObYHODs_ZTnM-1">
+          <mxGeometry x="279" y="910" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
