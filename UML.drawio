@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-31T05:16:25.839Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="UPb9EZ6GsXYpDKVeTGQ-" version="22.0.8" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-10-31T05:17:07.792Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="Bxwpvdv4lD4A_01wqFqI" version="22.0.8" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="MESERO">
     <mxGraphModel dx="794" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -833,6 +833,9 @@
         </mxCell>
         <mxCell id="5y1K1exrbt-PTDoIexJp-26" value="FIN" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="HnRFmJmTObYHODs_ZTnM-1">
           <mxGeometry x="112" y="1939" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="shNhjacGhIRuOPn38NWz-0" value="Registrar usuario" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="HnRFmJmTObYHODs_ZTnM-1">
+          <mxGeometry x="250" y="1475" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
