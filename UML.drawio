@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-31T05:19:21.624Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="cke9ycczmmV27TK28qPi" version="22.0.8" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-10-31T05:25:41.363Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="Cc6bdNgl9aYUXIEfULRF" version="22.0.8" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="MESERO">
     <mxGraphModel dx="794" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -241,7 +241,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="CAJERO" id="6ks3QOqxWbxU5lEoYeaq">
-    <mxGraphModel dx="794" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="794" dy="398" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="HUmP4-jnOYjWoAJB47kP-0" />
         <mxCell id="HUmP4-jnOYjWoAJB47kP-1" parent="HUmP4-jnOYjWoAJB47kP-0" />
@@ -262,14 +262,8 @@
         <mxCell id="xZxbgVRhVAFPskiZTyJH-48" value="Código" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="HUmP4-jnOYjWoAJB47kP-2">
           <mxGeometry y="106" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xZxbgVRhVAFPskiZTyJH-47" value="Código" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="HUmP4-jnOYjWoAJB47kP-2">
-          <mxGeometry y="136" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="HUmP4-jnOYjWoAJB47kP-5" value="Código" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="HUmP4-jnOYjWoAJB47kP-2" vertex="1">
-          <mxGeometry y="166" width="160" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="HUmP4-jnOYjWoAJB47kP-6" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="HUmP4-jnOYjWoAJB47kP-2" vertex="1">
-          <mxGeometry y="196" width="160" height="8" as="geometry" />
+          <mxGeometry y="136" width="160" height="8" as="geometry" />
         </mxCell>
         <mxCell id="4wfHX-8NDGqYXQVJ519T-0" value="Cajero" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="HUmP4-jnOYjWoAJB47kP-1" vertex="1">
           <mxGeometry x="70" y="690" width="80" height="120" as="geometry" />
