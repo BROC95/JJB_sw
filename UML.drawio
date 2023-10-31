@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-31T04:08:41.243Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="-saOp4XXprkqnGcQhPot" version="22.0.8" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-10-31T04:35:25.590Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="coCxydYRVZAO6BkOgBvt" version="22.0.8" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="MESERO">
-    <mxGraphModel dx="794" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="794" dy="398" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -241,7 +241,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="CAJERO" id="6ks3QOqxWbxU5lEoYeaq">
-    <mxGraphModel dx="794" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="794" dy="398" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="HUmP4-jnOYjWoAJB47kP-0" />
         <mxCell id="HUmP4-jnOYjWoAJB47kP-1" parent="HUmP4-jnOYjWoAJB47kP-0" />
@@ -272,7 +272,7 @@
           <mxGeometry y="196" width="160" height="8" as="geometry" />
         </mxCell>
         <mxCell id="4wfHX-8NDGqYXQVJ519T-0" value="Cajero" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="HUmP4-jnOYjWoAJB47kP-1" vertex="1">
-          <mxGeometry x="170" y="610" width="30" height="60" as="geometry" />
+          <mxGeometry x="110" y="590" width="80" height="120" as="geometry" />
         </mxCell>
         <mxCell id="4wfHX-8NDGqYXQVJ519T-1" value="Inicio de sesion&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" parent="HUmP4-jnOYjWoAJB47kP-1" vertex="1">
           <mxGeometry x="310" y="570" width="120" height="30" as="geometry" />
