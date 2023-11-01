@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-01T01:54:59.957Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.76" etag="UQjSrSRy8hAZMENZELVv" version="22.0.8" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-11-01T03:52:23.934Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.76" etag="bPP1dznSLp0artABlbb1" version="22.0.8" type="github" pages="5">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="MESERO">
     <mxGraphModel dx="1123" dy="607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -166,7 +166,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="CAJERO" id="6ks3QOqxWbxU5lEoYeaq">
-    <mxGraphModel dx="1310" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1572" dy="850" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="HUmP4-jnOYjWoAJB47kP-0" />
         <mxCell id="HUmP4-jnOYjWoAJB47kP-1" parent="HUmP4-jnOYjWoAJB47kP-0" />
@@ -509,7 +509,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="ADMINISTRADOR" id="kMSU-xu5slgGzOFPiZyY">
-    <mxGraphModel dx="786" dy="425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1572" dy="850" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="HnRFmJmTObYHODs_ZTnM-0" />
         <mxCell id="HnRFmJmTObYHODs_ZTnM-1" parent="HnRFmJmTObYHODs_ZTnM-0" />
@@ -784,6 +784,14 @@
             <mxPoint x="240" y="658" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="69K_l8SO_TozUMTRUuoI" name="Página-5">
+    <mxGraphModel dx="786" dy="425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
