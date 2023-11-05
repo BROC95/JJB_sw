@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-05T04:45:38.242Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="QajEzQ96TmFR8hsmoWdn" version="22.0.8" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-11-05T04:46:39.120Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="iFH7IPYoopTb-eJ0DHMw" version="22.0.8" type="github" pages="5">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="MESERO">
-    <mxGraphModel dx="794" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1387" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -119,7 +119,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="BAR" id="uyrzJn28EC1PDI9LezPf">
-    <mxGraphModel dx="794" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1189" dy="637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="U78a5W_wiexEdRj5ytxw-0" />
         <mxCell id="U78a5W_wiexEdRj5ytxw-1" parent="U78a5W_wiexEdRj5ytxw-0" />
@@ -166,7 +166,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="CAJERO" id="6ks3QOqxWbxU5lEoYeaq">
-    <mxGraphModel dx="1323" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1387" dy="743" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="HUmP4-jnOYjWoAJB47kP-0" />
         <mxCell id="HUmP4-jnOYjWoAJB47kP-1" parent="HUmP4-jnOYjWoAJB47kP-0" />
@@ -509,7 +509,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="ADMINISTRADOR" id="kMSU-xu5slgGzOFPiZyY">
-    <mxGraphModel dx="794" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1280" dy="686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="HnRFmJmTObYHODs_ZTnM-0" />
         <mxCell id="HnRFmJmTObYHODs_ZTnM-1" parent="HnRFmJmTObYHODs_ZTnM-0" />
@@ -788,7 +788,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="69K_l8SO_TozUMTRUuoI" name="SGI-bar">
-    <mxGraphModel dx="811" dy="557" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2707" dy="1673" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
